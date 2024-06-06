@@ -1,7 +1,7 @@
 ### Live Preview 👋
 
 <!--
-**fuyadhassan/fuyadhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**farukhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://fuyadhassan.github.io/fuyadhassan/">DEMO</a>
+
+<a href="https://md-faruk-hossain.github.io/myresume/">DEMO</a>
