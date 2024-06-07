@@ -1,4 +1,7 @@
 /* common css start */
+.main {
+  overflow: hidden;
+}
 *{
     margin: 0;
     padding: 0;
