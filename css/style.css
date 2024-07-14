@@ -91,6 +91,13 @@ hr .line{
       font-size: 14px;
       transition: all linear .3s;
   }
+  .menu-category .accordion-menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
   /* nav css end */
 
   /* Home Css Start */
